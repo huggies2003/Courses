@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946120695357",
+    "project_id": "tanate-wanitchakorn",
+    "storage_bucket": "tanate-wanitchakorn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946120695357:android:34c1a49d60a1dca85c5454",
+        "android_client_info": {
+          "package_name": "com.example.study_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbZbg7YxNs4eZogWQ5LPCkL1C3LfpVNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
